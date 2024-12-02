@@ -1,0 +1,114 @@
+.wrapper-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.wrapper {
+    background: rgba(35, 37, 54, 1);
+}
+
+.wrapper-box {
+    position: relative;
+    width: 624px;
+    height: 420px;
+}
+
+.wrapper-title {
+    padding-top: 20px;
+    width: 524px;
+    height: 204px;
+    font-family: Poppins;
+    font-size: 56px;
+    font-weight: 600;
+    line-height: 68px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: rgba(255, 255, 255, 1);
+}
+
+.wrapper-text {
+    padding-top: 20px;
+    width: 528px;
+    height: 48px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: rgb(167, 167, 167);
+}
+
+.wrapper-button {
+    margin-top: 20px;
+    width: 219px;
+    height: 64px;
+    background: rgba(68, 76, 252, 1);
+    color: aliceblue;
+    border: none;
+}
+
+.wrapper-button:hover {
+    background: hsla(229, 97%, 65%, 0.26);
+    color: rgba(68, 76, 252, 1);
+    border: 1px solid rgb(21, 62, 248);
+}
+
+.main-box-img {
+    margin-left: 15px;
+}
+
+.main-logo {
+    position: absolute;
+    left: 0;
+    top: 340px;
+}
+
+.main-images {
+    display: flex;
+
+    .main-img {
+        width: 22px;
+        height: 222px;
+    }
+}
+
+.main-link {
+    text-decoration: none;
+    width: 83.83px;
+    height: 20px;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: rgb(158, 157, 157);
+}
+
+.main-list-title {
+    width: 187px;
+    height: 28px;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 28px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: rgba(255, 255, 255, 1);
+}
+
+.main-list {
+    padding-top: 50px;
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    list-style: none;
+}

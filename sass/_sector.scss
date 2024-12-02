@@ -1,0 +1,113 @@
+.sector-box{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.sector{
+    margin-top: 50px;
+    padding-bottom: 50px;
+}
+.sector-link{
+    width: 88px;
+height: 20px;
+font-family: Poppins;
+font-size: 14px;
+font-weight: 500;
+line-height: 20px;
+letter-spacing: 3px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+text-decoration: none;
+color: rgb(22, 21, 21);
+}
+.sector-title{
+    padding-top: 20px;
+    width: 640px;
+height: 174px;
+font-family: Poppins;
+font-size: 48px;
+font-weight: 600;
+line-height: 58px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: rgba(35, 37, 54, 1);
+}
+.sector-span-title{
+    width: 547px;
+height: 54px;
+font-family: Poppins;
+font-size: 36px;
+font-weight: 600;
+line-height: 54px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: rgba(35, 37, 54, 1); 
+}
+.sector-spab-text{
+    width: 547px;
+height: 72px;
+font-family: Poppins;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: rgba(93, 95, 109, 1);
+}
+.sector-list{
+    padding-top: 50px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    list-style: none;
+}
+.li{
+    display: flex;
+}
+.mean-title{
+    width: 101px;
+height: 54px;
+font-family: Poppins;
+font-size: 36px;
+font-weight: 600;
+line-height: 54px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: rgba(35, 37, 54, 1);
+}
+.mean-text{
+    width: 135px;
+height: 24px;
+font-family: Poppins;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: rgba(0, 0, 0, 1);
+}
+.mean-list{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    list-style: none;
+}
+.sector-mean{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.mean-icon{
+    margin-left: 20px;
+}
+.mean-link{
+    text-decoration: none;
+    color:rgba(68, 76, 252, 1);
+    
+}

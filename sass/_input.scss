@@ -1,0 +1,57 @@
+.input{
+    padding-top: 50px;
+}
+.input-text{
+    width: 111px;
+height: 20px;
+font-family: Poppins;
+font-size: 14px;
+font-weight: 500;
+line-height: 20px;
+letter-spacing: 3px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: rgba(255, 255, 255, 1);
+}
+.input-title{
+    width: 448px;
+height: 108px;
+font-family: Poppins;
+font-size: 36px;
+font-weight: 600;
+line-height: 54px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: rgba(255, 255, 255, 1);
+}
+.input-container{
+    width: 1256px;
+height: 313px;
+background: rgba(102, 109, 255, 1);
+}
+.input-container{
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+input{
+    width: 454px;
+    height: 64px;
+    font-size: 20px;    
+    border-radius: 10PX;
+    border: none;
+}
+.input-img{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.input-im-two{
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+

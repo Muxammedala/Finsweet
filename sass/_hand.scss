@@ -1,0 +1,116 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.hand{
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+
+.hand-link{
+    text-decoration: none;
+    width: 124px;
+height: 20px;
+color: black;
+font-family: Poppins;
+font-size: 14px;
+font-weight: 500;
+line-height: 20px;
+letter-spacing: 3px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+}
+.hand-title{
+    padding-top: 20px;
+    width: 633px;
+height: 116px;
+font-family: Poppins;
+font-size: 48px;
+font-weight: 600;
+line-height: 58px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+}
+.hand-text{
+    padding-top: 20px;
+    width: 442px;
+height: 48px;
+font-family: Poppins;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: rgb(53, 54, 63);
+}
+.hand-list{
+    padding-top: 50px;
+    display: flex;
+    list-style: none;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.hand-item{
+    width: 394px;
+height: 134px;
+top: 4001px;
+left: 603px;
+gap: 0px;
+opacity: 0px;
+border: 1px solid rgba(35, 37, 54, 0.17)
+}
+.number{
+    width: 24px;
+height: 32px;
+opacity: 0.2px;
+font-family: Poppins;
+font-size: 24px;
+font-weight: 600;
+line-height: 32px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: rgb(181, 181, 182);
+padding-left: 350px;
+}
+.hand-span{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+.hand-span-title{
+    width: 72px;
+height: 28px;
+font-family: Poppins;
+font-size: 16px;
+font-weight: 600;
+line-height: 28px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+}
+.hand-span-text{
+    width: 289px;
+height: 72px;
+font-family: Poppins;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: rgb(69, 69, 70);
+}
+.icon-4{
+    padding-left: 10px;
+    padding-bottom: 50px;
+}
+.hand-images{
+    padding-bottom: 10px;
+}
+.first-images{
+    padding-bottom: 10px;
+}
